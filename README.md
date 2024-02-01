@@ -1,1 +1,6 @@
-Bot do ND decodado, Não venha pedir suporte
+# Bot Ssh @StartNetOfc
+
+~~~~
+ bash <(curl -sL https://raw.githubusercontent.com/Link Instalação) && chall
+~~~~
+
